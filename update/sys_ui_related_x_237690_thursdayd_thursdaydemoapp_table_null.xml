@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_237690_thursdayd_thursdaydemoapp_table" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="ThursdayDemoApp Table - Default view" name="x_237690_thursdayd_thursdaydemoapp_table" related_list="NULL" sys_domain="global" view="Default view">c2d145cfdbd023001ee29fd2ca96191e</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task_ci.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-06 17:21:19</sys_created_on>
+            <sys_id>86d1c503db1423001ee29fd2ca9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-06 17:21:19</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>ThursdayDemoApp Table - Default view</calculated_name>
+            <filter/>
+            <name>x_237690_thursdayd_thursdaydemoapp_table</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-06 17:21:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2d145cfdbd023001ee29fd2ca96191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ThursdayDemoApp Table - Default view</sys_name>
+            <sys_package display_value="ThursdayDemoApp" source="x_237690_thursdayd">9ffe700bdbd023001ee29fd2ca96195c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ThursdayDemoApp">9ffe700bdbd023001ee29fd2ca96195c</sys_scope>
+            <sys_update_name>sys_ui_related_x_237690_thursdayd_thursdaydemoapp_table_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-06 17:21:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>ThursdayDemoApp Table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>ThursdayDemoApp Table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">e8cad1555d121300651727c3e282e84b</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-09-06 17:20:23</sys_created_on>
+        <sys_id>64a1c5cfdbd023001ee29fd2ca9619a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ThursdayDemoApp Table</sys_name>
+        <sys_package display_value="ThursdayDemoApp" source="x_237690_thursdayd">9ffe700bdbd023001ee29fd2ca96195c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ThursdayDemoApp">9ffe700bdbd023001ee29fd2ca96195c</sys_scope>
+        <sys_update_name>sys_wizard_answer_64a1c5cfdbd023001ee29fd2ca9619a4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-09-06 17:20:23</sys_updated_on>
+        <table/>
+        <target_url>x_237690_thursdayd_thursdaydemoapp_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
