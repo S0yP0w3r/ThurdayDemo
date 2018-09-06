@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="ThursdayDemoApp Table" max_length="40" name="x_237690_thursdayd_thursdaydemoapp_table" type="collection"/>
+</database>
